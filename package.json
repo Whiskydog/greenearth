@@ -6,8 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "daisyui": "^2.18.1",
     "next": "latest",
     "react": "18.1.0",
+    "react-daisyui": "^2.0.6",
     "react-dom": "18.1.0"
   },
   "devDependencies": {
